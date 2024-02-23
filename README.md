@@ -1,4 +1,4 @@
-![Pixel Night](https://media.tenor.com/images/5e18e0703d6940aaff62b1f652b66d17/tenor.gif)
+![Pixel GIF](https://media.giphy.com/media/xThuWsnKSy4WAs1qso/giphy.gif)
 
 <br/>
 <hr/>
