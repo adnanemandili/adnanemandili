@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adnanemandili.adnanemandili" />
+<iframe src="https://giphy.com/embed/iicDrNGWxHmDrIni6j" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/europeanspaceagency-space-esa-european-agency-iicDrNGWxHmDrIni6j">via GIPHY</a></p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=adnanemandili.adnanemandili" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adnane+Mandili!;" />
