@@ -1,5 +1,4 @@
-![GIF](https://media.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy.gif)
-
+<img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="100%">
 
 <br/>
 <hr/>
