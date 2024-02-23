@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, ReactJS , NextJS , AWS, Kubernates**
 
-💬 Ask me about **Java, Angular ... or anything [here](https://github.com/adnanemandili/adnanemandili/issues)**
+💬 Ask me about **Java, Angular ... or anything [here](https://github.com/adnanemandili)**
 
 
  </div>
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,angular" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,nextjs,mysql,flask,postges,springboot" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,nextjs,mysql,flask,postgres,springboot" /><br>
 </div>
 
 <br/>
