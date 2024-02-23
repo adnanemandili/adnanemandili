@@ -56,10 +56,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-stats.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <a href="http://www.github.com/adnanemandili"><img src="https://github-readme-stats.vercel.app/api?username=adnanemandili&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=10b981&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="adnanemandili's GitHub stats" /></a>
+
+<a href="http://www.github.com/adnanemandili"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanemandili&stroke=10b981&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
+<a href="https://github.com/adnanemandili" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanemandili&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 <br/><br/>
