@@ -1,6 +1,5 @@
-<div class="tenor-gif-embed" data-postid="21412193" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div> 
+![Pixel Night](https://media.tenor.com/images/5e18e0703d6940aaff62b1f652b66d17/tenor.gif)
+
 <br/>
 <hr/>
 
